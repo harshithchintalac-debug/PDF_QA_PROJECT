@@ -5,7 +5,6 @@ This project allows you to **upload any PDF**, ask natural-language questions, a
 The system runs completely **offline**, making it ideal for research, study notes, and secure document processing.
 
 ---
-
 ## 🚀 Features
 
 - **Upload any PDF** and instantly index its content  
