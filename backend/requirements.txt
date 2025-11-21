@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-openai
+pdfplumber
+faiss-cpu
+sentence-transformers
+transformers
+torch
+PyPDF2
+langchain-google-genai 
+
